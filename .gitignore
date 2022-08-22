@@ -11,3 +11,5 @@
 /src/obj
 /src/bin/Debug/net6.0
 /src/.vs/PipeTeste/v17
+/src/bin/Release/net6.0
+/src/.vs/PipeTeste/DesignTimeBuild
