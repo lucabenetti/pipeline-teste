@@ -22,4 +22,9 @@ app.MapGet("/third", () =>
     return "third";
 });
 
+app.MapGet("/quarto", () =>
+{
+    return "quarto";
+});
+
 app.Run();
