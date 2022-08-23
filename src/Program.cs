@@ -12,4 +12,9 @@ app.MapGet("/first", () =>
     return "first";
 });
 
+app.MapGet("/second", () =>
+{
+    return "second";
+});
+
 app.Run();
