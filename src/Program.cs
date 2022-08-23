@@ -17,4 +17,9 @@ app.MapGet("/second", () =>
     return "second";
 });
 
+app.MapGet("/third", () =>
+{
+    return "third";
+});
+
 app.Run();
